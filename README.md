@@ -1,2 +1,2 @@
-# development
-Trying to learn SE
+# Development
+Trying to learn Software Engineering.
